@@ -1,0 +1,80 @@
+html { 
+    background-color: black;
+    background: url(../images/registreBG.jpg) no-repeat center center fixed; 
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+  }
+
+body{background-color: transparent;}
+
+
+
+label {color:red;}
+
+.padding15 {padding:15px;}
+
+.marginBottom15 {margin-bottom:15px;}
+
+.textGreen{color:green;}
+
+.cardCustom {
+    background-color: #ffffff !important;
+    border: none !important;
+    border-radius: 15px !important;
+    opacity: 0.8 !important;
+}
+
+.cardHeaderCustom {
+    background-color: #ffffff !important;
+    border-bottom: none;
+    padding: 40px 0;
+    border-radius: 15px !important;
+}
+
+.cardFooterCustom {
+    padding-top:25px;
+    background-color: #ffffff !important;
+    border-top: none;
+}
+
+
+
+.ctaPrimary {
+    color: #ffffff;
+    background-color: #2fac66;
+    border-color: #2fac66;
+    width:200px;
+    padding:15px;
+}
+
+.ctaPrimary:hover, .ctaPrimary:active {
+    color: #ffffff;
+    background-color: #3c3c3b;
+    border-color: #3c3c3b;
+    width:200px;
+    padding:15px;
+}
+
+a {
+    color: #2fac66 !important; 
+}
+
+.form-control {
+    opacity: 0.8 !important;
+}
+
+label {
+    color: #212529 !important;
+    font-weight:600;
+}
+
+
+.form-check-input:checked {
+    background-color: #2fac66 !important;
+    border-color: #2fac66 !important;
+}
+
+
+
